@@ -72,7 +72,7 @@ render(){
                             <hr className="cell-divide-hr"></hr>
                             <div className="price">
                                 <span className="value">Jan 6, 2021</span>
-                                <div className="frequency">6:00-6:45PM PDT</div>
+                                <div className="frequency">6:00 - 6:45 PM PDT</div>
                             </div>
                             <hr className="cell-divide-hr"></hr>
                             <ul className="list-unstyled li-space-lg">
