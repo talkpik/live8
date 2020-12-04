@@ -22,7 +22,7 @@ render(){
                             <hr className="cell-divide-hr"></hr>
                             <div className="price">
                                 <span className="value">Dec 2, 2020</span>
-                                <div className="frequency">6:00-6:45PM</div>
+                                <div className="frequency">6:00-6:45PM PDT</div>
                             </div>
                             <hr className="cell-divide-hr"></hr>
                             <ul className="list-unstyled li-space-lg">
@@ -43,11 +43,11 @@ render(){
                 	<div className="card">
                         <div className="card-body">
                             <div className="card-title">University of British Columbia</div>
-	  						<div className="card-subtitle">Business and Engineering Schools</div>
+	  						<div className="card-subtitle">Business School</div>
                             <hr className="cell-divide-hr"></hr>
                             <div className="price">
                                 <span className="value">Dec 16, 2020</span>
-                                <div className="frequency">6:00-6:45PM</div>
+                                <div className="frequency">6:00-6:45PM PDT</div>
                             </div>
                             <hr className="cell-divide-hr"></hr>
                             <ul className="list-unstyled li-space-lg">
@@ -72,7 +72,7 @@ render(){
                             <hr className="cell-divide-hr"></hr>
                             <div className="price">
                                 <span className="value">Jan 6, 2021</span>
-                                <div className="frequency">6:00-6:45PM</div>
+                                <div className="frequency">6:00-6:45PM PDT</div>
                             </div>
                             <hr className="cell-divide-hr"></hr>
                             <ul className="list-unstyled li-space-lg">

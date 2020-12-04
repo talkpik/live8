@@ -46,7 +46,7 @@ render(){
                     </div> 
                     <div className="team-member">
                         <div className="image-wrapper">
-                            <img className="img-fluid" src="images/shifa.png" alt="alternative"/>
+                            <img className="img-fluid" src="images/shifa_new.png" alt="alternative"/>
                         </div> 
                         <p className="p-large"><strong>Shifa Lateef</strong></p>
                         <p className="job-title"></p>
